@@ -130,6 +130,11 @@ h4 {
     border-radius: 5px;
     }
 
+    .projects {
+    width: 1150px;
+    margin: 0 auto;
+  }
+
     .projects_heading {
 
         box-sizing: border-box;
