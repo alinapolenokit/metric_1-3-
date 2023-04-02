@@ -31,7 +31,7 @@ section:first-child {
 
 .Logo_Link {
     display: inline-block;
-    margin-right: 501px;
+    margin-right: 468px;
 }
 
 
@@ -49,7 +49,7 @@ section:first-child {
     display: inline-block;
     font-size: 18px;
     height: 25px;
-    margin-left: 55px;
+    margin-left: 60px;
     line-height: 25px;
     letter-spacing: -0.03em;
     text-transform: uppercase;
@@ -118,7 +118,7 @@ h4 {
     color: aliceblue;
 }
 
- p.text_2 {
+ p.about-us_text {
     margin-top: 30px;
     width: 1115px;
     font-weight: 400;
@@ -145,7 +145,6 @@ h4 {
         width: 1400px;
         box-sizing: border-box;
         padding-left: 125px;
-        background: #F5F5F5;
 
     }
 
