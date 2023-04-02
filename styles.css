@@ -352,6 +352,11 @@ h4 {
         color: #FFFFFF;
     }
 
+    .nav_link_2:hover{
+        opacity: 0.5;
+        color: #FFFFFF;
+    }
+
     .nav_end_text {
         font-weight: 400;
         font-size: 20px;
